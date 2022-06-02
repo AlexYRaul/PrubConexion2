@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489053011515",
+    "firebase_url": "https://tribal-ethos-333110-default-rtdb.firebaseio.com",
+    "project_id": "tribal-ethos-333110",
+    "storage_bucket": "tribal-ethos-333110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489053011515:android:438af0e31e1f7f6ddfe61e",
+        "android_client_info": {
+          "package_name": "com.example.prubconexion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489053011515-l3srho7u118n3jpdsemja2ir2l0dujvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZ8HOGjGOAFbvCNLGx0NSZ7Wcdq0Eu1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489053011515-l3srho7u118n3jpdsemja2ir2l0dujvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
